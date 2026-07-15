@@ -58,6 +58,18 @@ The following data preparation steps were completed before analysis:
 
 ![Query 10](Query%2010-Purchased%20by%20Gender,%20by%20Category.png)
 
+## Key Business Insights
+
+* Identified the top 5 highest-spending customers based on total purchase value.
+* Determined the best-selling products by total quantity sold.
+* Identified the product categories that generated the highest revenue.
+* Analyzed customer purchasing behaviour across different age groups.
+* Determined the most preferred payment method used by customers.
+* Identified the periods of the day with the highest purchase activity.
+* Evaluated monthly sales trends to understand changes in sales performance over time.
+* Measured return and cancellation rates across product categories to identify areas for operational improvement.
+* Examined purchasing patterns across genders and product categories.
+
 ## Business Recommendations
 
 - Develop loyalty programmes for high-value customers.
