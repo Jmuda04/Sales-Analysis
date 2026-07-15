@@ -22,3 +22,14 @@ The project includes data cleaning, data transformation, and SQL queries to answ
 - SQL Queries
 - Data Analysis
 - Problem Solving
+
+
+## Featured Query Results
+
+### Query 4 – Highest Spending Customers
+
+![Query 4](Query%204-highest-spending%20Customers.png)
+
+### Query 10 – Purchased by Gender, by Category
+
+![Query 10](Query%2010-Purchased%20by%20Gender,%20by%20Category.png)
